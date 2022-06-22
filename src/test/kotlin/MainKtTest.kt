@@ -17,7 +17,7 @@ class MainKtTest {
        val sumMons = 74000_00
         val amount = 2000_00
         val result = sumRateMasterMaestro(sumMons, amount)
-        assertEquals(23_00, result)
+        assertEquals(26_00, result)
     }
 
     @Test
